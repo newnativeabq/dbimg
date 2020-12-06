@@ -1,0 +1,375 @@
+[2020-12-05 20:26:12 -0700] [db.db.getdb] [INFO] DB connection not found. Attempting connection to sqlite:///mpi_test.sqlite3.
+[2020-12-05 20:26:12 -0700] [app] [INFO] Database functionality initialized.  Click commands available.
+[2020-12-05 20:26:12 -0700] [werkzeug] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-12-05 20:26:12 -0700] [werkzeug] [INFO]  * Restarting with stat
+[2020-12-05 20:26:12 -0700] [db.db.getdb] [INFO] DB connection not found. Attempting connection to sqlite:///mpi_test.sqlite3.
+[2020-12-05 20:26:12 -0700] [app] [INFO] Database functionality initialized.  Click commands available.
+[2020-12-05 20:26:12 -0700] [werkzeug] [WARNING]  * Debugger is active!
+[2020-12-05 20:26:12 -0700] [werkzeug] [INFO]  * Debugger PIN: 193-309-536
+[2020-12-05 20:29:49 -0700] [werkzeug] [INFO]  * Detected change in '/home/vincent/bin/dbimg/api/routes/image_route.py', reloading
+[2020-12-05 20:29:49 -0700] [werkzeug] [INFO]  * Restarting with stat
+[2020-12-05 20:29:50 -0700] [db.db.getdb] [INFO] DB connection not found. Attempting connection to sqlite:///mpi_test.sqlite3.
+[2020-12-05 20:29:50 -0700] [app] [INFO] Database functionality initialized.  Click commands available.
+[2020-12-05 20:29:50 -0700] [werkzeug] [WARNING]  * Debugger is active!
+[2020-12-05 20:29:50 -0700] [werkzeug] [INFO]  * Debugger PIN: 193-309-536
+[2020-12-05 20:35:00 -0700] [werkzeug] [INFO]  * Detected change in '/home/vincent/bin/dbimg/api/routes/image_route.py', reloading
+[2020-12-05 20:35:00 -0700] [werkzeug] [INFO]  * Restarting with stat
+[2020-12-05 20:36:17 -0700] [db.db.getdb] [INFO] DB connection not found. Attempting connection to sqlite:///mpi_test.sqlite3.
+[2020-12-05 20:36:17 -0700] [app] [INFO] Database functionality initialized.  Click commands available.
+[2020-12-05 20:36:17 -0700] [werkzeug] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-12-05 20:36:17 -0700] [werkzeug] [INFO]  * Restarting with stat
+[2020-12-05 20:36:17 -0700] [db.db.getdb] [INFO] DB connection not found. Attempting connection to sqlite:///mpi_test.sqlite3.
+[2020-12-05 20:36:17 -0700] [app] [INFO] Database functionality initialized.  Click commands available.
+[2020-12-05 20:36:17 -0700] [werkzeug] [WARNING]  * Debugger is active!
+[2020-12-05 20:36:17 -0700] [werkzeug] [INFO]  * Debugger PIN: 193-309-536
+[2020-12-05 20:39:51 -0700] [db.db.getdb] [INFO] DB connection not found. Attempting connection to sqlite:///mpi_test.sqlite3.
+[2020-12-05 20:39:51 -0700] [app] [INFO] Database functionality initialized.  Click commands available.
+[2020-12-05 20:39:51 -0700] [werkzeug] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-12-05 20:39:51 -0700] [werkzeug] [INFO]  * Restarting with stat
+[2020-12-05 20:39:51 -0700] [db.db.getdb] [INFO] DB connection not found. Attempting connection to sqlite:///mpi_test.sqlite3.
+[2020-12-05 20:39:51 -0700] [app] [INFO] Database functionality initialized.  Click commands available.
+[2020-12-05 20:39:51 -0700] [werkzeug] [WARNING]  * Debugger is active!
+[2020-12-05 20:39:51 -0700] [werkzeug] [INFO]  * Debugger PIN: 193-309-536
+[2020-12-05 20:39:57 -0700] [werkzeug] [INFO] 127.0.0.1 - - [05/Dec/2020 20:39:57] "[37mGET / HTTP/1.1[0m" 200 -
+[2020-12-05 20:40:07 -0700] [werkzeug] [INFO]  * Detected change in '/home/vincent/bin/dbimg/app.py', reloading
+[2020-12-05 20:40:08 -0700] [werkzeug] [INFO]  * Restarting with stat
+[2020-12-05 20:40:08 -0700] [db.db.getdb] [INFO] DB connection not found. Attempting connection to sqlite:///mpi_test.sqlite3.
+[2020-12-05 20:40:08 -0700] [app] [INFO] Database functionality initialized.  Click commands available.
+[2020-12-05 20:40:08 -0700] [werkzeug] [WARNING]  * Debugger is active!
+[2020-12-05 20:40:08 -0700] [werkzeug] [INFO]  * Debugger PIN: 193-309-536
+[2020-12-05 20:40:14 -0700] [werkzeug] [INFO] 127.0.0.1 - - [05/Dec/2020 20:40:14] "[37mGET / HTTP/1.1[0m" 200 -
+[2020-12-05 20:40:51 -0700] [werkzeug] [INFO]  * Detected change in '/home/vincent/bin/dbimg/app.py', reloading
+[2020-12-05 20:40:51 -0700] [werkzeug] [INFO]  * Restarting with stat
+[2020-12-05 20:40:51 -0700] [db.db.getdb] [INFO] DB connection not found. Attempting connection to sqlite:///mpi_test.sqlite3.
+[2020-12-05 20:40:51 -0700] [app] [INFO] Database functionality initialized.  Click commands available.
+[2020-12-05 20:40:51 -0700] [werkzeug] [WARNING]  * Debugger is active!
+[2020-12-05 20:40:51 -0700] [werkzeug] [INFO]  * Debugger PIN: 193-309-536
+[2020-12-05 20:41:05 -0700] [werkzeug] [INFO] 127.0.0.1 - - [05/Dec/2020 20:41:05] "[37mGET / HTTP/1.1[0m" 200 -
+[2020-12-05 20:45:26 -0700] [db.db.getdb] [INFO] DB connection not found. Attempting connection to postgresql://app:dbpassword@192.168.1.37:5432.
+[2020-12-05 20:45:26 -0700] [db.db.getdb] [ERROR] Could not establish connection.  Aborting.
+[2020-12-05 20:45:55 -0700] [db.db.getdb] [INFO] DB connection not found. Attempting connection to postgresql://app:dbpassword@192.168.1.37:5432.
+[2020-12-05 20:45:55 -0700] [db.db.getdb] [ERROR] Could not establish connection.  Aborting.
+[2020-12-05 20:46:11 -0700] [db.db.getdb] [INFO] DB connection not found. Attempting connection to postgresql://postgres:dbpassword@192.168.1.37:5432.
+[2020-12-05 20:46:11 -0700] [app] [INFO] Database functionality initialized.  Click commands available.
+[2020-12-05 20:46:11 -0700] [werkzeug] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-12-05 20:46:11 -0700] [werkzeug] [INFO]  * Restarting with stat
+[2020-12-05 20:46:12 -0700] [db.db.getdb] [INFO] DB connection not found. Attempting connection to postgresql://postgres:dbpassword@192.168.1.37:5432.
+[2020-12-05 20:46:12 -0700] [app] [INFO] Database functionality initialized.  Click commands available.
+[2020-12-05 20:46:12 -0700] [werkzeug] [WARNING]  * Debugger is active!
+[2020-12-05 20:46:12 -0700] [werkzeug] [INFO]  * Debugger PIN: 193-309-536
+[2020-12-05 20:48:08 -0700] [werkzeug] [INFO]  * Detected change in '/home/vincent/bin/dbimg/app.py', reloading
+[2020-12-05 20:48:08 -0700] [werkzeug] [INFO]  * Restarting with stat
+[2020-12-05 20:51:22 -0700] [db.db.getdb] [INFO] DB connection not found. Attempting connection to postgresql://postgres:dbpassword@192.168.1.37:5432.
+[2020-12-05 20:51:22 -0700] [app] [INFO] Database functionality initialized.  Click commands available.
+[2020-12-05 20:51:22 -0700] [werkzeug] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-12-05 20:51:22 -0700] [werkzeug] [INFO]  * Restarting with stat
+[2020-12-05 20:51:22 -0700] [db.db.getdb] [INFO] DB connection not found. Attempting connection to postgresql://postgres:dbpassword@192.168.1.37:5432.
+[2020-12-05 20:51:22 -0700] [app] [INFO] Database functionality initialized.  Click commands available.
+[2020-12-05 20:51:22 -0700] [werkzeug] [WARNING]  * Debugger is active!
+[2020-12-05 20:51:22 -0700] [werkzeug] [INFO]  * Debugger PIN: 193-309-536
+[2020-12-05 20:51:33 -0700] [werkzeug] [INFO] 127.0.0.1 - - [05/Dec/2020 20:51:33] "[33mGET /camera1/2 HTTP/1.1[0m" 404 -
+[2020-12-05 20:51:39 -0700] [werkzeug] [INFO] 127.0.0.1 - - [05/Dec/2020 20:51:39] "[37mGET /image/camera1/2 HTTP/1.1[0m" 200 -
+[2020-12-05 20:51:51 -0700] [werkzeug] [INFO]  * Detected change in '/home/vincent/bin/dbimg/app.py', reloading
+[2020-12-05 20:51:51 -0700] [werkzeug] [INFO]  * Restarting with stat
+[2020-12-05 20:51:51 -0700] [db.db.getdb] [INFO] DB connection not found. Attempting connection to postgresql://postgres:dbpassword@192.168.1.37:5432.
+[2020-12-05 20:51:51 -0700] [app] [INFO] Database functionality initialized.  Click commands available.
+[2020-12-05 20:51:51 -0700] [werkzeug] [WARNING]  * Debugger is active!
+[2020-12-05 20:51:51 -0700] [werkzeug] [INFO]  * Debugger PIN: 193-309-536
+[2020-12-05 20:51:52 -0700] [werkzeug] [INFO] 127.0.0.1 - - [05/Dec/2020 20:51:52] "[37mGET /image/camera1/2 HTTP/1.1[0m" 200 -
+[2020-12-05 20:52:34 -0700] [werkzeug] [INFO]  * Detected change in '/home/vincent/bin/dbimg/app.py', reloading
+[2020-12-05 20:52:34 -0700] [werkzeug] [INFO]  * Restarting with stat
+[2020-12-05 20:52:34 -0700] [db.db.getdb] [INFO] DB connection not found. Attempting connection to postgresql://postgres:dbpassword@192.168.1.37:5432.
+[2020-12-05 20:52:34 -0700] [app] [INFO] Database functionality initialized.  Click commands available.
+[2020-12-05 20:52:34 -0700] [werkzeug] [WARNING]  * Debugger is active!
+[2020-12-05 20:52:34 -0700] [werkzeug] [INFO]  * Debugger PIN: 193-309-536
+[2020-12-05 20:52:57 -0700] [werkzeug] [INFO]  * Detected change in '/home/vincent/bin/dbimg/app.py', reloading
+[2020-12-05 20:52:57 -0700] [werkzeug] [INFO]  * Restarting with stat
+[2020-12-05 20:53:18 -0700] [db.db.getdb] [INFO] DB connection not found. Attempting connection to postgresql://postgres:dbpassword@192.168.1.37:5432.
+[2020-12-05 20:53:18 -0700] [app] [INFO] Database functionality initialized.  Click commands available.
+[2020-12-05 20:53:18 -0700] [werkzeug] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-12-05 20:53:18 -0700] [werkzeug] [INFO]  * Restarting with stat
+[2020-12-05 20:53:18 -0700] [db.db.getdb] [INFO] DB connection not found. Attempting connection to postgresql://postgres:dbpassword@192.168.1.37:5432.
+[2020-12-05 20:53:18 -0700] [app] [INFO] Database functionality initialized.  Click commands available.
+[2020-12-05 20:53:18 -0700] [werkzeug] [WARNING]  * Debugger is active!
+[2020-12-05 20:53:18 -0700] [werkzeug] [INFO]  * Debugger PIN: 193-309-536
+[2020-12-05 20:53:43 -0700] [db.db.getdb] [INFO] DB connection not found. Attempting connection to postgresql://postgres:dbpassword@192.168.1.37:5432.
+[2020-12-05 20:53:43 -0700] [app] [INFO] Database functionality initialized.  Click commands available.
+[2020-12-05 20:53:43 -0700] [werkzeug] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-12-05 20:53:43 -0700] [werkzeug] [INFO]  * Restarting with stat
+[2020-12-05 20:53:43 -0700] [db.db.getdb] [INFO] DB connection not found. Attempting connection to postgresql://postgres:dbpassword@192.168.1.37:5432.
+[2020-12-05 20:53:43 -0700] [app] [INFO] Database functionality initialized.  Click commands available.
+[2020-12-05 20:53:43 -0700] [werkzeug] [WARNING]  * Debugger is active!
+[2020-12-05 20:53:43 -0700] [werkzeug] [INFO]  * Debugger PIN: 193-309-536
+[2020-12-05 20:56:25 -0700] [db.db.getdb] [INFO] DB connection not found. Attempting connection to postgresql://postgres:dbpassword@192.168.1.37:5432.
+[2020-12-05 20:56:25 -0700] [app] [INFO] Database functionality initialized.  Click commands available.
+[2020-12-05 20:56:25 -0700] [werkzeug] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-12-05 20:56:25 -0700] [werkzeug] [INFO]  * Restarting with stat
+[2020-12-05 20:56:25 -0700] [db.db.getdb] [INFO] DB connection not found. Attempting connection to postgresql://postgres:dbpassword@192.168.1.37:5432.
+[2020-12-05 20:56:25 -0700] [app] [INFO] Database functionality initialized.  Click commands available.
+[2020-12-05 20:56:25 -0700] [werkzeug] [WARNING]  * Debugger is active!
+[2020-12-05 20:56:25 -0700] [werkzeug] [INFO]  * Debugger PIN: 193-309-536
+[2020-12-05 20:56:28 -0700] [werkzeug] [INFO] 127.0.0.1 - - [05/Dec/2020 20:56:28] "[37mGET /image/camera1/2 HTTP/1.1[0m" 200 -
+[2020-12-05 20:56:38 -0700] [werkzeug] [INFO]  * Detected change in '/home/vincent/bin/dbimg/api/routes/image_route.py', reloading
+[2020-12-05 20:56:38 -0700] [werkzeug] [INFO]  * Restarting with stat
+[2020-12-05 20:56:38 -0700] [db.db.getdb] [INFO] DB connection not found. Attempting connection to postgresql://postgres:dbpassword@192.168.1.37:5432.
+[2020-12-05 20:56:38 -0700] [app] [INFO] Database functionality initialized.  Click commands available.
+[2020-12-05 20:56:38 -0700] [werkzeug] [WARNING]  * Debugger is active!
+[2020-12-05 20:56:38 -0700] [werkzeug] [INFO]  * Debugger PIN: 193-309-536
+[2020-12-05 20:56:39 -0700] [werkzeug] [INFO] 127.0.0.1 - - [05/Dec/2020 20:56:39] "[37mGET /image/camera1/2 HTTP/1.1[0m" 200 -
+[2020-12-05 20:56:39 -0700] [werkzeug] [INFO] 127.0.0.1 - - [05/Dec/2020 20:56:39] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2020-12-05 21:07:05 -0700] [werkzeug] [INFO]  * Detected change in '/home/vincent/bin/dbimg/api/routes/image_route.py', reloading
+[2020-12-05 21:07:05 -0700] [werkzeug] [INFO]  * Restarting with stat
+[2020-12-05 21:07:05 -0700] [db.db.getdb] [INFO] DB connection not found. Attempting connection to postgresql://postgres:dbpassword@192.168.1.37:5432.
+[2020-12-05 21:07:05 -0700] [app] [INFO] Database functionality initialized.  Click commands available.
+[2020-12-05 21:07:05 -0700] [werkzeug] [WARNING]  * Debugger is active!
+[2020-12-05 21:07:05 -0700] [werkzeug] [INFO]  * Debugger PIN: 193-309-536
+[2020-12-05 21:07:08 -0700] [werkzeug] [INFO] 127.0.0.1 - - [05/Dec/2020 21:07:08] "[37mGET /image/camera1/2 HTTP/1.1[0m" 200 -
+[2020-12-05 21:07:18 -0700] [werkzeug] [INFO]  * Detected change in '/home/vincent/bin/dbimg/api/routes/image_route.py', reloading
+[2020-12-05 21:07:18 -0700] [werkzeug] [INFO]  * Restarting with stat
+[2020-12-05 21:07:18 -0700] [db.db.getdb] [INFO] DB connection not found. Attempting connection to postgresql://postgres:dbpassword@192.168.1.37:5432.
+[2020-12-05 21:07:18 -0700] [app] [INFO] Database functionality initialized.  Click commands available.
+[2020-12-05 21:07:18 -0700] [werkzeug] [WARNING]  * Debugger is active!
+[2020-12-05 21:07:18 -0700] [werkzeug] [INFO]  * Debugger PIN: 193-309-536
+[2020-12-05 21:07:55 -0700] [werkzeug] [INFO]  * Detected change in '/home/vincent/bin/dbimg/api/routes/image_route.py', reloading
+[2020-12-05 21:07:55 -0700] [werkzeug] [INFO]  * Restarting with stat
+[2020-12-05 21:07:55 -0700] [db.db.getdb] [INFO] DB connection not found. Attempting connection to postgresql://postgres:dbpassword@192.168.1.37:5432.
+[2020-12-05 21:07:55 -0700] [app] [INFO] Database functionality initialized.  Click commands available.
+[2020-12-05 21:07:55 -0700] [werkzeug] [WARNING]  * Debugger is active!
+[2020-12-05 21:07:55 -0700] [werkzeug] [INFO]  * Debugger PIN: 193-309-536
+[2020-12-05 21:07:57 -0700] [werkzeug] [INFO] 127.0.0.1 - - [05/Dec/2020 21:07:57] "[35m[1mGET /image/camera1/2 HTTP/1.1[0m" 500 -
+[2020-12-05 21:07:58 -0700] [werkzeug] [INFO] 127.0.0.1 - - [05/Dec/2020 21:07:58] "[37mGET /image/camera1/2?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+[2020-12-05 21:07:58 -0700] [werkzeug] [INFO] 127.0.0.1 - - [05/Dec/2020 21:07:58] "[37mGET /image/camera1/2?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+[2020-12-05 21:07:58 -0700] [werkzeug] [INFO] 127.0.0.1 - - [05/Dec/2020 21:07:58] "[37mGET /image/camera1/2?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+[2020-12-05 21:07:58 -0700] [werkzeug] [INFO] 127.0.0.1 - - [05/Dec/2020 21:07:58] "[37mGET /image/camera1/2?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+[2020-12-05 21:07:58 -0700] [werkzeug] [INFO] 127.0.0.1 - - [05/Dec/2020 21:07:58] "[37mGET /image/camera1/2?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+[2020-12-05 21:07:58 -0700] [werkzeug] [INFO] 127.0.0.1 - - [05/Dec/2020 21:07:58] "[37mGET /image/camera1/2?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+[2020-12-05 21:08:32 -0700] [werkzeug] [INFO]  * Detected change in '/home/vincent/bin/dbimg/api/routes/image_route.py', reloading
+[2020-12-05 21:08:32 -0700] [werkzeug] [INFO]  * Restarting with stat
+[2020-12-05 21:08:32 -0700] [db.db.getdb] [INFO] DB connection not found. Attempting connection to postgresql://postgres:dbpassword@192.168.1.37:5432.
+[2020-12-05 21:08:32 -0700] [app] [INFO] Database functionality initialized.  Click commands available.
+[2020-12-05 21:08:32 -0700] [werkzeug] [WARNING]  * Debugger is active!
+[2020-12-05 21:08:32 -0700] [werkzeug] [INFO]  * Debugger PIN: 193-309-536
+[2020-12-05 21:08:35 -0700] [werkzeug] [INFO] 127.0.0.1 - - [05/Dec/2020 21:08:35] "[37mGET /image/camera1/2 HTTP/1.1[0m" 200 -
+[2020-12-05 21:08:50 -0700] [werkzeug] [INFO]  * Detected change in '/home/vincent/bin/dbimg/api/routes/image_route.py', reloading
+[2020-12-05 21:08:50 -0700] [werkzeug] [INFO]  * Restarting with stat
+[2020-12-05 21:08:50 -0700] [db.db.getdb] [INFO] DB connection not found. Attempting connection to postgresql://postgres:dbpassword@192.168.1.37:5432.
+[2020-12-05 21:08:50 -0700] [app] [INFO] Database functionality initialized.  Click commands available.
+[2020-12-05 21:08:50 -0700] [werkzeug] [WARNING]  * Debugger is active!
+[2020-12-05 21:08:50 -0700] [werkzeug] [INFO]  * Debugger PIN: 193-309-536
+[2020-12-05 21:08:50 -0700] [werkzeug] [INFO] 127.0.0.1 - - [05/Dec/2020 21:08:50] "[35m[1mGET /image/camera1/2 HTTP/1.1[0m" 500 -
+[2020-12-05 21:08:50 -0700] [werkzeug] [INFO] 127.0.0.1 - - [05/Dec/2020 21:08:50] "[37mGET /image/camera1/2?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+[2020-12-05 21:08:50 -0700] [werkzeug] [INFO] 127.0.0.1 - - [05/Dec/2020 21:08:50] "[37mGET /image/camera1/2?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+[2020-12-05 21:08:50 -0700] [werkzeug] [INFO] 127.0.0.1 - - [05/Dec/2020 21:08:50] "[37mGET /image/camera1/2?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+[2020-12-05 21:08:50 -0700] [werkzeug] [INFO] 127.0.0.1 - - [05/Dec/2020 21:08:50] "[37mGET /image/camera1/2?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+[2020-12-05 21:08:50 -0700] [werkzeug] [INFO] 127.0.0.1 - - [05/Dec/2020 21:08:50] "[37mGET /image/camera1/2?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+[2020-12-05 21:09:20 -0700] [werkzeug] [INFO]  * Detected change in '/home/vincent/bin/dbimg/api/routes/image_route.py', reloading
+[2020-12-05 21:09:20 -0700] [werkzeug] [INFO]  * Restarting with stat
+[2020-12-05 21:09:20 -0700] [db.db.getdb] [INFO] DB connection not found. Attempting connection to postgresql://postgres:dbpassword@192.168.1.37:5432.
+[2020-12-05 21:09:20 -0700] [app] [INFO] Database functionality initialized.  Click commands available.
+[2020-12-05 21:09:20 -0700] [werkzeug] [WARNING]  * Debugger is active!
+[2020-12-05 21:09:20 -0700] [werkzeug] [INFO]  * Debugger PIN: 193-309-536
+[2020-12-05 21:11:10 -0700] [werkzeug] [INFO]  * Detected change in '/home/vincent/bin/dbimg/api/routes/image_route.py', reloading
+[2020-12-05 21:11:10 -0700] [werkzeug] [INFO]  * Restarting with stat
+[2020-12-05 21:11:10 -0700] [db.db.getdb] [INFO] DB connection not found. Attempting connection to postgresql://postgres:dbpassword@192.168.1.37:5432.
+[2020-12-05 21:11:10 -0700] [app] [INFO] Database functionality initialized.  Click commands available.
+[2020-12-05 21:11:10 -0700] [werkzeug] [WARNING]  * Debugger is active!
+[2020-12-05 21:11:10 -0700] [werkzeug] [INFO]  * Debugger PIN: 193-309-536
+[2020-12-05 21:11:14 -0700] [werkzeug] [INFO]  * Detected change in '/home/vincent/bin/dbimg/api/routes/image_route.py', reloading
+[2020-12-05 21:11:14 -0700] [werkzeug] [INFO]  * Restarting with stat
+[2020-12-05 21:11:15 -0700] [db.db.getdb] [INFO] DB connection not found. Attempting connection to postgresql://postgres:dbpassword@192.168.1.37:5432.
+[2020-12-05 21:11:15 -0700] [app] [INFO] Database functionality initialized.  Click commands available.
+[2020-12-05 21:11:15 -0700] [werkzeug] [WARNING]  * Debugger is active!
+[2020-12-05 21:11:15 -0700] [werkzeug] [INFO]  * Debugger PIN: 193-309-536
+[2020-12-05 21:11:16 -0700] [werkzeug] [INFO] 127.0.0.1 - - [05/Dec/2020 21:11:16] "[35m[1mGET /image/camera1/2 HTTP/1.1[0m" 500 -
+[2020-12-05 21:11:16 -0700] [werkzeug] [INFO] 127.0.0.1 - - [05/Dec/2020 21:11:16] "[37mGET /image/camera1/2?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+[2020-12-05 21:11:16 -0700] [werkzeug] [INFO] 127.0.0.1 - - [05/Dec/2020 21:11:16] "[37mGET /image/camera1/2?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+[2020-12-05 21:11:16 -0700] [werkzeug] [INFO] 127.0.0.1 - - [05/Dec/2020 21:11:16] "[37mGET /image/camera1/2?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+[2020-12-05 21:11:16 -0700] [werkzeug] [INFO] 127.0.0.1 - - [05/Dec/2020 21:11:16] "[37mGET /image/camera1/2?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+[2020-12-05 21:11:33 -0700] [werkzeug] [INFO]  * Detected change in '/home/vincent/bin/dbimg/api/routes/image_route.py', reloading
+[2020-12-05 21:11:33 -0700] [werkzeug] [INFO]  * Restarting with stat
+[2020-12-05 21:11:33 -0700] [db.db.getdb] [INFO] DB connection not found. Attempting connection to postgresql://postgres:dbpassword@192.168.1.37:5432.
+[2020-12-05 21:11:33 -0700] [app] [INFO] Database functionality initialized.  Click commands available.
+[2020-12-05 21:11:33 -0700] [werkzeug] [WARNING]  * Debugger is active!
+[2020-12-05 21:11:33 -0700] [werkzeug] [INFO]  * Debugger PIN: 193-309-536
+[2020-12-05 21:11:38 -0700] [werkzeug] [INFO] 127.0.0.1 - - [05/Dec/2020 21:11:38] "[35m[1mGET /image/camera1/2 HTTP/1.1[0m" 500 -
+[2020-12-05 21:11:38 -0700] [werkzeug] [INFO] 127.0.0.1 - - [05/Dec/2020 21:11:38] "[37mGET /image/camera1/2?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+[2020-12-05 21:11:38 -0700] [werkzeug] [INFO] 127.0.0.1 - - [05/Dec/2020 21:11:38] "[37mGET /image/camera1/2?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+[2020-12-05 21:11:38 -0700] [werkzeug] [INFO] 127.0.0.1 - - [05/Dec/2020 21:11:38] "[37mGET /image/camera1/2?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+[2020-12-05 21:11:38 -0700] [werkzeug] [INFO] 127.0.0.1 - - [05/Dec/2020 21:11:38] "[37mGET /image/camera1/2?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+[2020-12-05 21:11:38 -0700] [werkzeug] [INFO] 127.0.0.1 - - [05/Dec/2020 21:11:38] "[37mGET /image/camera1/2?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+[2020-12-05 21:16:38 -0700] [werkzeug] [INFO]  * Detected change in '/home/vincent/bin/dbimg/api/routes/image_route.py', reloading
+[2020-12-05 21:16:38 -0700] [werkzeug] [INFO]  * Restarting with stat
+[2020-12-05 21:16:38 -0700] [db.db.getdb] [INFO] DB connection not found. Attempting connection to postgresql://postgres:dbpassword@192.168.1.37:5432.
+[2020-12-05 21:16:38 -0700] [app] [INFO] Database functionality initialized.  Click commands available.
+[2020-12-05 21:16:38 -0700] [werkzeug] [WARNING]  * Debugger is active!
+[2020-12-05 21:16:38 -0700] [werkzeug] [INFO]  * Debugger PIN: 193-309-536
+[2020-12-05 21:16:40 -0700] [werkzeug] [INFO]  * Detected change in '/home/vincent/bin/dbimg/api/routes/image_route.py', reloading
+[2020-12-05 21:16:41 -0700] [werkzeug] [INFO]  * Restarting with stat
+[2020-12-05 21:16:41 -0700] [db.db.getdb] [INFO] DB connection not found. Attempting connection to postgresql://postgres:dbpassword@192.168.1.37:5432.
+[2020-12-05 21:16:41 -0700] [app] [INFO] Database functionality initialized.  Click commands available.
+[2020-12-05 21:16:41 -0700] [werkzeug] [WARNING]  * Debugger is active!
+[2020-12-05 21:16:41 -0700] [werkzeug] [INFO]  * Debugger PIN: 193-309-536
+[2020-12-05 21:16:45 -0700] [werkzeug] [INFO] 127.0.0.1 - - [05/Dec/2020 21:16:45] "[37mGET /image/camera1/2 HTTP/1.1[0m" 200 -
+[2020-12-05 21:17:34 -0700] [werkzeug] [INFO]  * Detected change in '/home/vincent/bin/dbimg/api/routes/image_route.py', reloading
+[2020-12-05 21:17:34 -0700] [werkzeug] [INFO]  * Restarting with stat
+[2020-12-05 21:17:34 -0700] [db.db.getdb] [INFO] DB connection not found. Attempting connection to postgresql://postgres:dbpassword@192.168.1.37:5432.
+[2020-12-05 21:17:34 -0700] [app] [INFO] Database functionality initialized.  Click commands available.
+[2020-12-05 21:17:34 -0700] [werkzeug] [WARNING]  * Debugger is active!
+[2020-12-05 21:17:34 -0700] [werkzeug] [INFO]  * Debugger PIN: 193-309-536
+[2020-12-05 21:17:37 -0700] [werkzeug] [INFO] 127.0.0.1 - - [05/Dec/2020 21:17:37] "[35m[1mGET /image/camera1/2 HTTP/1.1[0m" 500 -
+[2020-12-05 21:17:37 -0700] [werkzeug] [INFO] 127.0.0.1 - - [05/Dec/2020 21:17:37] "[37mGET /image/camera1/2?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+[2020-12-05 21:17:37 -0700] [werkzeug] [INFO] 127.0.0.1 - - [05/Dec/2020 21:17:37] "[37mGET /image/camera1/2?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+[2020-12-05 21:17:37 -0700] [werkzeug] [INFO] 127.0.0.1 - - [05/Dec/2020 21:17:37] "[37mGET /image/camera1/2?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+[2020-12-05 21:17:37 -0700] [werkzeug] [INFO] 127.0.0.1 - - [05/Dec/2020 21:17:37] "[37mGET /image/camera1/2?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+[2020-12-05 21:17:37 -0700] [werkzeug] [INFO] 127.0.0.1 - - [05/Dec/2020 21:17:37] "[37mGET /image/camera1/2?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+[2020-12-05 21:17:37 -0700] [werkzeug] [INFO] 127.0.0.1 - - [05/Dec/2020 21:17:37] "[37mGET /image/camera1/2?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+[2020-12-05 21:18:08 -0700] [werkzeug] [INFO]  * Detected change in '/home/vincent/bin/dbimg/app.py', reloading
+[2020-12-05 21:18:08 -0700] [werkzeug] [INFO]  * Restarting with stat
+[2020-12-05 21:18:08 -0700] [db.db.getdb] [INFO] DB connection not found. Attempting connection to postgresql://postgres:dbpassword@192.168.1.37:5432.
+[2020-12-05 21:18:08 -0700] [app] [INFO] Database functionality initialized.  Click commands available.
+[2020-12-05 21:18:08 -0700] [werkzeug] [WARNING]  * Debugger is active!
+[2020-12-05 21:18:08 -0700] [werkzeug] [INFO]  * Debugger PIN: 193-309-536
+[2020-12-05 21:18:46 -0700] [werkzeug] [INFO]  * Detected change in '/home/vincent/bin/dbimg/app.py', reloading
+[2020-12-05 21:18:46 -0700] [werkzeug] [INFO]  * Restarting with stat
+[2020-12-05 21:18:46 -0700] [db.db.getdb] [INFO] DB connection not found. Attempting connection to postgresql://postgres:dbpassword@192.168.1.37:5432.
+[2020-12-05 21:18:46 -0700] [app] [INFO] Database functionality initialized.  Click commands available.
+[2020-12-05 21:18:46 -0700] [werkzeug] [WARNING]  * Debugger is active!
+[2020-12-05 21:18:46 -0700] [werkzeug] [INFO]  * Debugger PIN: 193-309-536
+[2020-12-05 21:19:11 -0700] [werkzeug] [INFO]  * Detected change in '/home/vincent/bin/dbimg/api/routes/image_route.py', reloading
+[2020-12-05 21:19:11 -0700] [werkzeug] [INFO]  * Restarting with stat
+[2020-12-05 21:19:11 -0700] [db.db.getdb] [INFO] DB connection not found. Attempting connection to postgresql://postgres:dbpassword@192.168.1.37:5432.
+[2020-12-05 21:19:11 -0700] [app] [INFO] Database functionality initialized.  Click commands available.
+[2020-12-05 21:19:11 -0700] [werkzeug] [WARNING]  * Debugger is active!
+[2020-12-05 21:19:11 -0700] [werkzeug] [INFO]  * Debugger PIN: 193-309-536
+[2020-12-05 21:19:14 -0700] [werkzeug] [INFO] 127.0.0.1 - - [05/Dec/2020 21:19:14] "[35m[1mGET /image/camera1/2 HTTP/1.1[0m" 500 -
+[2020-12-05 21:19:14 -0700] [werkzeug] [INFO] 127.0.0.1 - - [05/Dec/2020 21:19:14] "[37mGET /image/camera1/2?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+[2020-12-05 21:19:14 -0700] [werkzeug] [INFO] 127.0.0.1 - - [05/Dec/2020 21:19:14] "[37mGET /image/camera1/2?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+[2020-12-05 21:19:14 -0700] [werkzeug] [INFO] 127.0.0.1 - - [05/Dec/2020 21:19:14] "[37mGET /image/camera1/2?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+[2020-12-05 21:19:14 -0700] [werkzeug] [INFO] 127.0.0.1 - - [05/Dec/2020 21:19:14] "[37mGET /image/camera1/2?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+[2020-12-05 21:19:14 -0700] [werkzeug] [INFO] 127.0.0.1 - - [05/Dec/2020 21:19:14] "[37mGET /image/camera1/2?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+[2020-12-05 21:19:20 -0700] [werkzeug] [INFO]  * Detected change in '/home/vincent/bin/dbimg/api/routes/image_route.py', reloading
+[2020-12-05 21:19:20 -0700] [werkzeug] [INFO]  * Restarting with stat
+[2020-12-05 21:19:20 -0700] [db.db.getdb] [INFO] DB connection not found. Attempting connection to postgresql://postgres:dbpassword@192.168.1.37:5432.
+[2020-12-05 21:19:20 -0700] [app] [INFO] Database functionality initialized.  Click commands available.
+[2020-12-05 21:19:20 -0700] [werkzeug] [WARNING]  * Debugger is active!
+[2020-12-05 21:19:20 -0700] [werkzeug] [INFO]  * Debugger PIN: 193-309-536
+[2020-12-05 21:19:22 -0700] [werkzeug] [INFO] 127.0.0.1 - - [05/Dec/2020 21:19:22] "[37mGET /image/camera1/2 HTTP/1.1[0m" 200 -
+[2020-12-05 21:20:31 -0700] [werkzeug] [INFO]  * Detected change in '/home/vincent/bin/dbimg/api/routes/image_route.py', reloading
+[2020-12-05 21:20:31 -0700] [werkzeug] [INFO]  * Restarting with stat
+[2020-12-05 21:20:31 -0700] [db.db.getdb] [INFO] DB connection not found. Attempting connection to postgresql://postgres:dbpassword@192.168.1.37:5432.
+[2020-12-05 21:20:31 -0700] [app] [INFO] Database functionality initialized.  Click commands available.
+[2020-12-05 21:20:31 -0700] [werkzeug] [WARNING]  * Debugger is active!
+[2020-12-05 21:20:31 -0700] [werkzeug] [INFO]  * Debugger PIN: 193-309-536
+[2020-12-05 21:21:07 -0700] [werkzeug] [INFO]  * Detected change in '/home/vincent/bin/dbimg/app.py', reloading
+[2020-12-05 21:21:07 -0700] [werkzeug] [INFO]  * Restarting with stat
+[2020-12-05 21:21:27 -0700] [db.db.getdb] [INFO] DB connection not found. Attempting connection to postgresql://postgres:dbpassword@192.168.1.37:5432.
+[2020-12-05 21:21:27 -0700] [app] [INFO] Database functionality initialized.  Click commands available.
+[2020-12-05 21:21:27 -0700] [werkzeug] [INFO]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-12-05 21:21:27 -0700] [werkzeug] [INFO]  * Restarting with stat
+[2020-12-05 21:21:27 -0700] [db.db.getdb] [INFO] DB connection not found. Attempting connection to postgresql://postgres:dbpassword@192.168.1.37:5432.
+[2020-12-05 21:21:27 -0700] [app] [INFO] Database functionality initialized.  Click commands available.
+[2020-12-05 21:21:27 -0700] [werkzeug] [WARNING]  * Debugger is active!
+[2020-12-05 21:21:27 -0700] [werkzeug] [INFO]  * Debugger PIN: 193-309-536
+[2020-12-05 21:21:37 -0700] [werkzeug] [INFO]  * Detected change in '/home/vincent/bin/dbimg/api/routes/image_route.py', reloading
+[2020-12-05 21:21:37 -0700] [werkzeug] [INFO]  * Restarting with stat
+[2020-12-05 21:21:37 -0700] [db.db.getdb] [INFO] DB connection not found. Attempting connection to postgresql://postgres:dbpassword@192.168.1.37:5432.
+[2020-12-05 21:21:37 -0700] [app] [INFO] Database functionality initialized.  Click commands available.
+[2020-12-05 21:21:37 -0700] [werkzeug] [WARNING]  * Debugger is active!
+[2020-12-05 21:21:37 -0700] [werkzeug] [INFO]  * Debugger PIN: 193-309-536
+[2020-12-05 21:21:41 -0700] [werkzeug] [INFO] 127.0.0.1 - - [05/Dec/2020 21:21:41] "[35m[1mGET /image/camera1/2 HTTP/1.1[0m" 500 -
+[2020-12-05 21:21:41 -0700] [werkzeug] [INFO] 127.0.0.1 - - [05/Dec/2020 21:21:41] "[37mGET /image/camera1/2?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+[2020-12-05 21:21:41 -0700] [werkzeug] [INFO] 127.0.0.1 - - [05/Dec/2020 21:21:41] "[37mGET /image/camera1/2?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+[2020-12-05 21:21:41 -0700] [werkzeug] [INFO] 127.0.0.1 - - [05/Dec/2020 21:21:41] "[37mGET /image/camera1/2?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+[2020-12-05 21:21:41 -0700] [werkzeug] [INFO] 127.0.0.1 - - [05/Dec/2020 21:21:41] "[37mGET /image/camera1/2?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+[2020-12-05 21:21:41 -0700] [werkzeug] [INFO] 127.0.0.1 - - [05/Dec/2020 21:21:41] "[37mGET /image/camera1/2?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+[2020-12-05 21:22:44 -0700] [werkzeug] [INFO]  * Detected change in '/home/vincent/bin/dbimg/api/routes/image_route.py', reloading
+[2020-12-05 21:22:44 -0700] [werkzeug] [INFO]  * Restarting with stat
+[2020-12-05 21:22:44 -0700] [db.db.getdb] [INFO] DB connection not found. Attempting connection to postgresql://postgres:dbpassword@192.168.1.37:5432.
+[2020-12-05 21:22:44 -0700] [app] [INFO] Database functionality initialized.  Click commands available.
+[2020-12-05 21:22:44 -0700] [werkzeug] [WARNING]  * Debugger is active!
+[2020-12-05 21:22:44 -0700] [werkzeug] [INFO]  * Debugger PIN: 193-309-536
+[2020-12-05 21:22:53 -0700] [werkzeug] [INFO]  * Detected change in '/home/vincent/bin/dbimg/app.py', reloading
+[2020-12-05 21:22:53 -0700] [werkzeug] [INFO]  * Restarting with stat
+[2020-12-05 21:22:53 -0700] [db.db.getdb] [INFO] DB connection not found. Attempting connection to postgresql://postgres:dbpassword@192.168.1.37:5432.
+[2020-12-05 21:22:53 -0700] [app] [INFO] Database functionality initialized.  Click commands available.
+[2020-12-05 21:22:53 -0700] [werkzeug] [WARNING]  * Debugger is active!
+[2020-12-05 21:22:53 -0700] [werkzeug] [INFO]  * Debugger PIN: 193-309-536
+[2020-12-05 21:22:58 -0700] [werkzeug] [INFO]  * Detected change in '/home/vincent/bin/dbimg/app.py', reloading
+[2020-12-05 21:22:58 -0700] [werkzeug] [INFO]  * Restarting with stat
+[2020-12-05 21:22:58 -0700] [db.db.getdb] [INFO] DB connection not found. Attempting connection to postgresql://postgres:dbpassword@192.168.1.37:5432.
+[2020-12-05 21:22:58 -0700] [app] [INFO] Database functionality initialized.  Click commands available.
+[2020-12-05 21:22:58 -0700] [werkzeug] [WARNING]  * Debugger is active!
+[2020-12-05 21:22:58 -0700] [werkzeug] [INFO]  * Debugger PIN: 193-309-536
+[2020-12-05 21:23:01 -0700] [werkzeug] [INFO] 127.0.0.1 - - [05/Dec/2020 21:23:01] "[37mGET /image/camera1/2 HTTP/1.1[0m" 200 -
+[2020-12-05 21:23:02 -0700] [werkzeug] [INFO] 127.0.0.1 - - [05/Dec/2020 21:23:02] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2020-12-05 21:23:17 -0700] [werkzeug] [INFO]  * Detected change in '/home/vincent/bin/dbimg/app.py', reloading
+[2020-12-05 21:23:17 -0700] [werkzeug] [INFO]  * Restarting with stat
+[2020-12-05 21:23:17 -0700] [db.db.getdb] [INFO] DB connection not found. Attempting connection to postgresql://postgres:dbpassword@192.168.1.37:5432.
+[2020-12-05 21:23:17 -0700] [app] [INFO] Database functionality initialized.  Click commands available.
+[2020-12-05 21:23:17 -0700] [werkzeug] [WARNING]  * Debugger is active!
+[2020-12-05 21:23:17 -0700] [werkzeug] [INFO]  * Debugger PIN: 193-309-536
+[2020-12-05 21:23:37 -0700] [werkzeug] [INFO]  * Detected change in '/home/vincent/bin/dbimg/api/routes/image_route.py', reloading
+[2020-12-05 21:23:37 -0700] [werkzeug] [INFO]  * Restarting with stat
+[2020-12-05 21:23:37 -0700] [db.db.getdb] [INFO] DB connection not found. Attempting connection to postgresql://postgres:dbpassword@192.168.1.37:5432.
+[2020-12-05 21:23:37 -0700] [app] [INFO] Database functionality initialized.  Click commands available.
+[2020-12-05 21:23:37 -0700] [werkzeug] [WARNING]  * Debugger is active!
+[2020-12-05 21:23:37 -0700] [werkzeug] [INFO]  * Debugger PIN: 193-309-536
+[2020-12-05 21:23:44 -0700] [werkzeug] [INFO] 127.0.0.1 - - [05/Dec/2020 21:23:44] "[33mGET /image/camera1/1 HTTP/1.1[0m" 404 -
+[2020-12-05 21:23:57 -0700] [werkzeug] [INFO] 127.0.0.1 - - [05/Dec/2020 21:23:57] "[37mGET /image/camera1 HTTP/1.1[0m" 200 -
+[2020-12-05 21:29:20 -0700] [werkzeug] [INFO] 127.0.0.1 - - [05/Dec/2020 21:29:20] "[33mGET /camera1 HTTP/1.1[0m" 404 -
+[2020-12-05 21:29:20 -0700] [werkzeug] [INFO] 127.0.0.1 - - [05/Dec/2020 21:29:20] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2020-12-05 21:29:28 -0700] [werkzeug] [INFO]  * Detected change in '/home/vincent/bin/dbimg/app.py', reloading
+[2020-12-05 21:29:28 -0700] [werkzeug] [INFO]  * Restarting with stat
+[2020-12-05 21:29:28 -0700] [db.db.getdb] [INFO] DB connection not found. Attempting connection to postgresql://postgres:dbpassword@192.168.1.37:5432.
+[2020-12-05 21:29:28 -0700] [app] [INFO] Database functionality initialized.  Click commands available.
+[2020-12-05 21:29:28 -0700] [werkzeug] [WARNING]  * Debugger is active!
+[2020-12-05 21:29:28 -0700] [werkzeug] [INFO]  * Debugger PIN: 193-309-536
+[2020-12-05 21:31:12 -0700] [db.db.getdb] [INFO] DB connection not found. Attempting connection to postgresql://postgres:dbpassword@192.168.1.37:5432.
+[2020-12-05 21:31:12 -0700] [app] [INFO] Database functionality initialized.  Click commands available.
+[2020-12-05 21:31:12 -0700] [werkzeug] [INFO]  * Running on http://192.168.1.37:5000/ (Press CTRL+C to quit)
+[2020-12-05 21:31:12 -0700] [werkzeug] [INFO]  * Restarting with stat
+[2020-12-05 21:31:12 -0700] [db.db.getdb] [INFO] DB connection not found. Attempting connection to postgresql://postgres:dbpassword@192.168.1.37:5432.
+[2020-12-05 21:31:12 -0700] [app] [INFO] Database functionality initialized.  Click commands available.
+[2020-12-05 21:31:12 -0700] [werkzeug] [WARNING]  * Debugger is active!
+[2020-12-05 21:31:12 -0700] [werkzeug] [INFO]  * Debugger PIN: 193-309-536
+[2020-12-05 21:31:26 -0700] [werkzeug] [INFO] 192.168.1.28 - - [05/Dec/2020 21:31:26] "[37mGET / HTTP/1.1[0m" 200 -
+[2020-12-05 21:31:26 -0700] [werkzeug] [INFO] 192.168.1.28 - - [05/Dec/2020 21:31:26] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2020-12-05 21:31:35 -0700] [werkzeug] [INFO] 192.168.1.28 - - [05/Dec/2020 21:31:35] "[33mGET /camera1 HTTP/1.1[0m" 404 -
+[2020-12-05 21:31:43 -0700] [werkzeug] [INFO] 192.168.1.28 - - [05/Dec/2020 21:31:43] "[37mGET /image/camera1 HTTP/1.1[0m" 200 -
+[2020-12-05 21:32:15 -0700] [werkzeug] [INFO] 192.168.1.28 - - [05/Dec/2020 21:32:15] "[37mGET /image/camera1?from=1607207533135&to=1607229133135&height=471&now=1607229133135&interval=%24__interval&sample=Not%20escaped%3A%20%24__interval&since=1607228846394 HTTP/1.1[0m" 200 -
+[2020-12-05 21:32:17 -0700] [werkzeug] [INFO] 192.168.1.28 - - [05/Dec/2020 21:32:17] "[37mGET /image/camera1?from=1607207533135&to=1607229133135&height=471&now=1607229133135&interval=%24__interval&sample=Not%20escaped%3A%20%24__interval&since=1607228846394 HTTP/1.1[0m" 200 -
+[2020-12-05 21:32:20 -0700] [werkzeug] [INFO] 192.168.1.28 - - [05/Dec/2020 21:32:20] "[37mGET /image/camera1?from=1607207538159&to=1607229138160&height=471&now=1607229138160&interval=%24__interval&sample=Not%20escaped%3A%20%24__interval&since=1607229133135 HTTP/1.1[0m" 200 -
+[2020-12-05 21:32:27 -0700] [werkzeug] [INFO] 192.168.1.28 - - [05/Dec/2020 21:32:27] "[37mGET /image/camera1?from=1607207545408&to=1607229145408&height=471&now=1607229145408&interval=%24__interval&sample=Not%20escaped%3A%20%24__interval&since=1607229138160 HTTP/1.1[0m" 200 -
+[2020-12-05 21:32:30 -0700] [werkzeug] [INFO] 192.168.1.28 - - [05/Dec/2020 21:32:30] "[37mGET /image/camera1?from=1607207548163&to=1607229148163&height=471&now=1607229148164&interval=%24__interval&sample=Not%20escaped%3A%20%24__interval&since=1607229145408 HTTP/1.1[0m" 200 -
+[2020-12-05 21:32:38 -0700] [werkzeug] [INFO] 192.168.1.28 - - [05/Dec/2020 21:32:38] "[37mGET /image/camera1?from=1607207545408&to=1607229145408&height=471&now=1607229145408&interval=%24__interval&sample=Not%20escaped%3A%20%24__interval&since=1607229138160 HTTP/1.1[0m" 200 -
+[2020-12-05 21:32:41 -0700] [werkzeug] [INFO] 192.168.1.28 - - [05/Dec/2020 21:32:41] "[37mGET /image/camera1?from=1607207558522&to=1607229158522&height=471&now=1607229158522&interval=%24__interval&sample=Not%20escaped%3A%20%24__interval&since=1607229148164 HTTP/1.1[0m" 200 -
+[2020-12-05 21:32:50 -0700] [werkzeug] [INFO] 192.168.1.28 - - [05/Dec/2020 21:32:50] "[37mGET /image/camera1?from=1607207568175&to=1607229168175&height=288&now=1607229168175&interval=%24__interval&sample=Not%20escaped%3A%20%24__interval&since=1607228806351 HTTP/1.1[0m" 200 -
+[2020-12-05 21:33:05 -0700] [werkzeug] [INFO] 192.168.1.28 - - [05/Dec/2020 21:33:05] "[37mGET /image/camera1?from=1607207583152&to=1607229183152&height=471&now=1607229183153&interval=%24__interval&sample=Not%20escaped%3A%20%24__interval&since=-1 HTTP/1.1[0m" 200 -
+[2020-12-05 21:33:07 -0700] [werkzeug] [INFO] 192.168.1.28 - - [05/Dec/2020 21:33:07] "[37mGET /image/camera1?from=1607207585360&to=1607229185360&height=471&now=1607229185360&interval=%24__interval&sample=Not%20escaped%3A%20%24__interval&since=-1 HTTP/1.1[0m" 200 -
+[2020-12-05 21:33:07 -0700] [werkzeug] [INFO] 192.168.1.28 - - [05/Dec/2020 21:33:07] "[37mGET /image/camera1?from=1607207585345&to=1607229185345&height=471&now=1607229185346&interval=%24__interval&sample=Not%20escaped%3A%20%24__interval&since=-1 HTTP/1.1[0m" 200 -
+[2020-12-05 21:33:08 -0700] [werkzeug] [INFO] 192.168.1.28 - - [05/Dec/2020 21:33:08] "[37mGET /image/camera1 HTTP/1.1[0m" 200 -
+[2020-12-05 21:33:08 -0700] [werkzeug] [INFO] 192.168.1.28 - - [05/Dec/2020 21:33:08] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2020-12-05 21:33:17 -0700] [werkzeug] [INFO] 192.168.1.28 - - [05/Dec/2020 21:33:17] "[37mGET /image/camera1?from=1607207595353&to=1607229195353&height=463&now=1607229195355&interval=%24__interval&sample=Not%20escaped%3A%20%24__interval&since=1607229185346 HTTP/1.1[0m" 200 -
+[2020-12-05 21:33:33 -0700] [werkzeug] [INFO] 192.168.1.28 - - [05/Dec/2020 21:33:33] "[37mGET /image/camera1?from=1607207611227&to=1607229211227&height=471&now=1607229211227&interval=%24__interval&sample=Not%20escaped%3A%20%24__interval&since=1607229195355 HTTP/1.1[0m" 200 -
+[2020-12-05 21:34:31 -0700] [werkzeug] [INFO] 192.168.1.28 - - [05/Dec/2020 21:34:31] "[37mGET /image/camera1?from=1607207669159&to=1607229269159&height=471&now=1607229269159&interval=%24__interval&sample=Not%20escaped%3A%20%24__interval&since=1607229211227 HTTP/1.1[0m" 200 -
+[2020-12-05 21:34:38 -0700] [werkzeug] [INFO] 192.168.1.28 - - [05/Dec/2020 21:34:38] "[37mGET /image/camera1?from=1607207675861&to=1607229275861&height=471&now=1607229275861&interval=%24__interval&sample=Not%20escaped%3A%20%24__interval&since=1607229269159 HTTP/1.1[0m" 200 -
+[2020-12-05 21:34:49 -0700] [werkzeug] [INFO] 192.168.1.28 - - [05/Dec/2020 21:34:49] "[37mGET /image/camera1?from=1607207686817&to=1607229286817&height=471&now=1607229286817&interval=%24__interval&sample=Not%20escaped%3A%20%24__interval&since=1607229275861 HTTP/1.1[0m" 200 -
+[2020-12-05 21:34:55 -0700] [werkzeug] [INFO] 192.168.1.28 - - [05/Dec/2020 21:34:55] "[37mGET /image/camera1?from=1607207693333&to=1607229293333&height=471&now=1607229293333&interval=%24__interval&sample=Not%20escaped%3A%20%24__interval&since=1607229286817 HTTP/1.1[0m" 200 -
+[2020-12-05 21:34:59 -0700] [werkzeug] [INFO] 192.168.1.28 - - [05/Dec/2020 21:34:59] "[37mGET /image/camera1?from=1607207696830&to=1607229296830&height=471&now=1607229296831&interval=%24__interval&sample=Not%20escaped%3A%20%24__interval&since=1607229293333 HTTP/1.1[0m" 200 -
+[2020-12-05 21:35:01 -0700] [werkzeug] [INFO] 192.168.1.28 - - [05/Dec/2020 21:35:01] "[37mGET /image/camera1?from=1607207699207&to=1607229299207&height=471&now=1607229299207&interval=%24__interval&sample=Not%20escaped%3A%20%24__interval&since=1607229296831 HTTP/1.1[0m" 200 -
+[2020-12-05 21:35:10 -0700] [werkzeug] [INFO] 192.168.1.28 - - [05/Dec/2020 21:35:10] "[37mGET /image/camera1?from=1607207708040&to=1607229308040&height=973&now=1607229308041&interval=%24__interval&sample=Not%20escaped%3A%20%24__interval&since=1607229168175 HTTP/1.1[0m" 200 -
+[2020-12-05 21:35:20 -0700] [werkzeug] [INFO] 192.168.1.28 - - [05/Dec/2020 21:35:20] "[37mGET /image/camera1?from=1607207718050&to=1607229318050&height=288&now=1607229318050&interval=%24__interval&sample=Not%20escaped%3A%20%24__interval&since=1607229308040 HTTP/1.1[0m" 200 -
+[2020-12-05 21:35:29 -0700] [werkzeug] [INFO] 192.168.1.28 - - [05/Dec/2020 21:35:29] "[37mGET /image/camera1?from=1607207727238&to=1607229327238&height=471&now=1607229327239&interval=%24__interval&sample=Not%20escaped%3A%20%24__interval&since=-1 HTTP/1.1[0m" 200 -
+[2020-12-05 21:35:29 -0700] [werkzeug] [INFO] 192.168.1.28 - - [05/Dec/2020 21:35:29] "[37mGET /image/camera1?from=1607207727335&to=1607229327335&height=471&now=1607229327335&interval=%24__interval&sample=Not%20escaped%3A%20%24__interval&since=-1 HTTP/1.1[0m" 200 -
+[2020-12-05 21:35:32 -0700] [werkzeug] [INFO] 192.168.1.28 - - [05/Dec/2020 21:35:32] "[37mGET /image/camera1?from=1607207729864&to=1607229329864&height=471&now=1607229329864&interval=%24__interval&sample=Not%20escaped%3A%20%24__interval&since=1607229327335 HTTP/1.1[0m" 200 -
+[2020-12-05 21:35:40 -0700] [werkzeug] [INFO] 192.168.1.28 - - [05/Dec/2020 21:35:40] "[37mGET /image/camera1?from=1607207738063&to=1607229338064&height=471&now=1607229338064&interval=%24__interval&sample=Not%20escaped%3A%20%24__interval&since=1607229329864 HTTP/1.1[0m" 200 -
+[2020-12-05 21:36:03 -0700] [werkzeug] [INFO] 192.168.1.28 - - [05/Dec/2020 21:36:03] "[37mGET /image/camera1?from=1607207760956&to=1607229360956&height=471&now=1607229360956&interval=%24__interval&sample=Not%20escaped%3A%20%24__interval&since=1607229338064 HTTP/1.1[0m" 200 -
+[2020-12-05 21:36:11 -0700] [werkzeug] [INFO] 192.168.1.28 - - [05/Dec/2020 21:36:11] "[37mGET /image/camera1?from=1607207769305&to=1607229369305&height=471&now=1607229369305&interval=%24__interval&sample=Not%20escaped%3A%20%24__interval&since=1607229360956 HTTP/1.1[0m" 200 -
+[2020-12-05 21:36:16 -0700] [werkzeug] [INFO] 192.168.1.28 - - [05/Dec/2020 21:36:16] "[37mGET /image/camera1?from=1607207773761&to=1607229373761&height=471&now=1607229373762&interval=%24__interval&sample=Not%20escaped%3A%20%24__interval&since=1607229369305 HTTP/1.1[0m" 200 -
+[2020-12-05 21:36:21 -0700] [werkzeug] [INFO] 192.168.1.28 - - [05/Dec/2020 21:36:21] "[37mGET /image/camera1?from=1607207778775&to=1607229378775&height=471&now=1607229378776&interval=%24__interval&sample=Not%20escaped%3A%20%24__interval&since=1607229373762 HTTP/1.1[0m" 200 -
+[2020-12-05 21:36:21 -0700] [werkzeug] [INFO] 192.168.1.28 - - [05/Dec/2020 21:36:21] "[37mGET /image/camera1?from=1607207779315&to=1607229379315&height=471&now=1607229379316&interval=%24__interval&sample=Not%20escaped%3A%20%24__interval&since=1607229378776 HTTP/1.1[0m" 200 -
+[2020-12-05 21:36:25 -0700] [werkzeug] [INFO] 192.168.1.28 - - [05/Dec/2020 21:36:25] "[37mGET /image/camera1?from=1607207782506&to=1607229382507&height=471&now=1607229382507&interval=%24__interval&sample=Not%20escaped%3A%20%24__interval&since=1607229379316 HTTP/1.1[0m" 200 -
+[2020-12-05 21:36:31 -0700] [werkzeug] [INFO] 192.168.1.28 - - [05/Dec/2020 21:36:31] "[37mGET /image/camera1?from=1607207789311&to=1607229389311&height=471&now=1607229389312&interval=%24__interval&sample=Not%20escaped%3A%20%24__interval&since=1607229382507 HTTP/1.1[0m" 200 -
+[2020-12-05 21:36:41 -0700] [werkzeug] [INFO] 192.168.1.28 - - [05/Dec/2020 21:36:41] "[37mGET /image/camera1?from=1607207799319&to=1607229399320&height=471&now=1607229399320&interval=%24__interval&sample=Not%20escaped%3A%20%24__interval&since=1607229389312 HTTP/1.1[0m" 200 -
+[2020-12-05 21:39:32 -0700] [flask_cors.core] [INFO] The request's Access-Control-Request-Method header does not match allowed methods. CORS headers will not be applied.
+[2020-12-05 21:39:32 -0700] [werkzeug] [INFO] 192.168.1.28 - - [05/Dec/2020 21:39:32] "[37mOPTIONS /image/camera1 HTTP/1.1[0m" 200 -
